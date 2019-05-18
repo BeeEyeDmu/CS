@@ -1,0 +1,12 @@
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\WPF_clock.csprojResolveAssemblyReference.cache
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\WPF_clock.csproj.GenerateResource.Cache
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.pdb

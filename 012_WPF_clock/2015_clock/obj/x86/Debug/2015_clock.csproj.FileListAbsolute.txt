@@ -1,0 +1,65 @@
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Documents\Visual Studio 2010\Projects\강병익\2015_clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\2015_clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\2015_clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock.csprojResolveAssemblyReference.cache
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\konyang\Desktop\2015_clock\2015_clock\obj\x86\Debug\2015_clock.csproj.GenerateResource.Cache
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.csprojResolveAssemblyReference.cache
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\konyang\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.csproj.GenerateResource.Cache
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock.csprojResolveAssemblyReference.cache
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\강병익\Desktop\Clock\clock\2015_clock\obj\x86\Debug\2015_clock.csproj.GenerateResource.Cache
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\bikan\Desktop\clock\2015_clock\bin\Debug\2015_clock.exe
+C:\Users\bikan\Desktop\clock\2015_clock\bin\Debug\2015_clock.pdb
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.csprojResolveAssemblyReference.cache
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\MainWindow.baml
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\App.g.cs
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock_MarkupCompile.cache
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.g.resources
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\_2015_clock.Properties.Resources.resources
+C:\Users\bikan\Desktop\clock\2015_clock\obj\x86\Debug\2015_clock.csproj.GenerateResource.Cache
+C:\Users\konyang\Desktop\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.pdb
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.exe
+C:\Users\konyang\Desktop\강병익 강의용\WPF_clock\2015_clock\obj\x86\Debug\2015_clock.pdb

@@ -1,0 +1,14 @@
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\bin\Debug\013_RotationClock.exe.config
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\bin\Debug\013_RotationClock.exe
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\bin\Debug\013_RotationClock.pdb
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock.csprojResolveAssemblyReference.cache
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\MainWindow.g.cs
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\App.g.cs
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock_MarkupCompile.cache
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock_MarkupCompile.lref
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\MainWindow.baml
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock.g.resources
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\_013_RotationClock.Properties.Resources.resources
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock.csproj.GenerateResource.Cache
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock.exe
+c:\users\bikan\documents\visual studio 2015\Projects\013_RotationClock\013_RotationClock\obj\Debug\013_RotationClock.pdb
