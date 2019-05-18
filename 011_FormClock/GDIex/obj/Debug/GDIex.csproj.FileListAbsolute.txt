@@ -1,0 +1,8 @@
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\bin\Debug\GDIex.exe.config
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\bin\Debug\GDIex.exe
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\bin\Debug\GDIex.pdb
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\obj\Debug\GDIex.Form1.resources
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\obj\Debug\GDIex.Properties.Resources.resources
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\obj\Debug\GDIex.csproj.GenerateResource.Cache
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\obj\Debug\GDIex.exe
+C:\Users\강병익\Desktop\Clock\FormClocl\GDIex\obj\Debug\GDIex.pdb
