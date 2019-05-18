@@ -1,0 +1,42 @@
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.g.cs
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\App.g.cs
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.cache
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.lref
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.baml
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.g.resources
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.Cache
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+c:\users\한정교\documents\visual studio 2015\Projects\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\App.g.cs
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.cache
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.lref
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.g.resources
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Users\konyang\Desktop\Code\MonteCarlo\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.Cache
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe.config
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.exe
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.pdb
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.exe
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\bin\Debug\MonteCarlo.pdb
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csprojResolveAssemblyReference.cache
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\App.g.cs
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.cache
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo_MarkupCompile.lref
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MainWindow.baml
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.g.resources
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.Properties.Resources.resources
+C:\Users\konyang\Desktop\강병익 강의용\MonteCarlo\MonteCarlo\obj\Debug\MonteCarlo.csproj.GenerateResource.Cache
