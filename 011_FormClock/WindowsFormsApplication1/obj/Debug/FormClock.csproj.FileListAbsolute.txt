@@ -16,3 +16,13 @@ C:\Users\bikang\Desktop\FormClock\WindowsFormsApplication1\obj\Debug\WindowsForm
 C:\Users\bikang\Desktop\FormClock\WindowsFormsApplication1\obj\Debug\FormClock.csproj.GenerateResource.Cache
 C:\Users\bikang\Desktop\FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\bikang\Desktop\FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\FormClock.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\FormClock.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\FormClock.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HP\source\repos\CS\011_FormClock\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
